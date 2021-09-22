@@ -1,15 +1,15 @@
-# Project Name
+# Rock Paper Scissors
 
 #### This is a console application that..
 
-#### _By Paige Tiedeman_
+#### _By Paige Tiedeman & Charlie Weber_
 
 ## Technologies Used
 
 * C#
 * .NET
-* Unit Testing
-
+* MSTest
+* REPL
 
 ## Description
 
@@ -27,13 +27,13 @@ This console application uses input..
 
 ## Known Bugs
 
-* _N/A_
+* _WIP_
 
 ## License
 
 _[MIT](https://opensource.org/licenses/MIT)_  
 
-Copyright (c) 2021 Paige Tiedeman
+Copyright (c) 2021 Paige Tiedeman and Charlie Weber
 
 ## Contact Information
 
