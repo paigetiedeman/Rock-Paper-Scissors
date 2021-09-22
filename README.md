@@ -27,7 +27,7 @@ This console application uses input..
 
 ## Known Bugs
 
-* _WIP_
+* _WIP: UI application_
 
 ## License
 
